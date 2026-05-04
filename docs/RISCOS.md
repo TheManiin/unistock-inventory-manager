@@ -18,4 +18,5 @@
 ## Justificativa de Gestão de Riscos
 
 A gestão de riscos foi elaborada para antecipar possíveis obstáculos técnicos e operacionais durante o desenvolvimento do UniStock. 
+
 A identificação prévia desses riscos permite definir ações preventivas e corretivas, reduzindo impactos no prazo, qualidade e entrega final do projeto.
