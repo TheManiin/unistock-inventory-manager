@@ -22,6 +22,6 @@
 - 4.3 Análise de Cenários (What-If)
 
 ## 5.0 Entrega Final
-- 5.1 Testes e Validação
-- 5.2 Documentação Final
-- 5.3 Apresentação do Projeto
+- 5.1 Testes Integrados
+- 5.2 Homologação / Validação Final
+- 5.3 Documentação e Apresentação
