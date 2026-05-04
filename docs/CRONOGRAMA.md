@@ -16,6 +16,7 @@
 | 12 | Documentação e Apresentação | 06/05 | 08/05 | 11 |
 
 
+
 ## Observações do Cronograma
 
 - As atividades seguem ordem sequencial baseada nas dependências técnicas do projeto.
