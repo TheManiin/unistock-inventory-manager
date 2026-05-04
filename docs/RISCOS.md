@@ -2,9 +2,9 @@
 
 ## Plano de Comunicação
 
-- Daily / Reuniões de Alinhamento:
-- Revisão Semanal:
-- Ferramentas Utilizadas:
+- Daily / Reuniões de Alinhamento: Reuniões rápidas de acompanhamento realizadas conforme necessidade para validação de progresso e impedimentos.
+- Revisão Semanal: Revisão do andamento geral do projeto e replanejamento de prioridades.
+- Ferramentas Utilizadas: GitHub para versionamento e documentação, WhatsApp para comunicação rápida entre equipe.
 
 ## Matriz de Riscos
 
@@ -17,4 +17,5 @@
 
 ## Justificativa de Gestão de Riscos
 
-Texto explicando a importância da identificação e mitigação antecipada dos riscos do projeto.
+A gestão de riscos foi elaborada para antecipar possíveis obstáculos técnicos e operacionais durante o desenvolvimento do UniStock. 
+A identificação prévia desses riscos permite definir ações preventivas e corretivas, reduzindo impactos no prazo, qualidade e entrega final do projeto.
