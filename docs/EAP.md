@@ -8,8 +8,8 @@
 
 ## 2.0 Desenvolvimento Técnico
 - 2.1 Cadastro e Controle de Estoque
-- 2.2 Relatórios e Dashboard de KPIs
-- 2.3 ETL e Tratamento de Dados em Python
+- 2.2 ETL e Tratamento de Dados em Python
+- 2.3 Relatórios e Dashboard de KPIs
 
 ## 3.0 Segurança da Informação
 - 3.1 Mapeamento de Vulnerabilidades
