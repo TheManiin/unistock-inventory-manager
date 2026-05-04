@@ -4,7 +4,7 @@
 
 - Daily / Reuniões de Alinhamento: Reuniões rápidas de acompanhamento realizadas conforme necessidade para validação de progresso e impedimentos.
 - Revisão Semanal: Revisão do andamento geral do projeto e replanejamento de prioridades.
-- Ferramentas Utilizadas: GitHub para versionamento e documentação, WhatsApp para comunicação rápida entre equipe.
+- Ferramentas Utilizadas: GitHub para versionamento e documentação técnica, WhatsApp para comunicação rápida, Microsoft Word para documentação complementar e Microsoft Excel para apoio em planilhas e controles auxiliares, bloco de notas para anotações rápidas.
 
 ## Matriz de Riscos
 
