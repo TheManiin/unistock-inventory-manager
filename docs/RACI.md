@@ -13,7 +13,7 @@
 | 4.1 Otimização Estoque | C | R/A |
 | 4.2 Mix de Produtos | C | R/A |
 | 4.3 What-If | C | R/A |
-| 5.0 Entrega Final | R | R |
+| 5.0 Entrega Final | R/A | C |
 
 
 ## Legenda
