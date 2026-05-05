@@ -17,3 +17,8 @@ Notebook referente à Disciplina 2 do Projeto GSC.
 - Matplotlib
 - Seaborn
 - Google Colab
+
+
+## Notebook Completo
+
+- https://colab.research.google.com/drive/1UENGSao2JT1yakEnyBUltQ6wD-XxZpK8#scrollTo=WO9A0AAtftXW
