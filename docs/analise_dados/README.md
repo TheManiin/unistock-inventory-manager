@@ -21,4 +21,7 @@ Notebook referente à Disciplina 2 do Projeto GSC.
 
 ## Notebook Completo
 
-- https://colab.research.google.com/drive/1UENGSao2JT1yakEnyBUltQ6wD-XxZpK8#scrollTo=WO9A0AAtftXW
+## Notebook Completo
+
+- [Abrir no Google Colab](https://colab.research.google.com/drive/1UENGSao2JT1yakEnyBUltQ6wD-XxZpK8#scrollTo=WO9A0AAtftXW)
+- [Visualizar Notebook no GitHub](./UniStock_Analise_Dados.ipynb)
