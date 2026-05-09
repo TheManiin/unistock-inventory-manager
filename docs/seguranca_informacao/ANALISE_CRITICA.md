@@ -17,4 +17,51 @@ No contexto do UniStock, um invasor poderia explorar campos de login, busca de p
 Exemplo de ataque:
 
 ```sql
-' OR 1=1 --
+' OR 1=1 -- 
+```
+
+## Impactos Operacionais
+
+A exploração dessa vulnerabilidade poderia causar:
+
+- acesso indevido a contas administrativas
+- vazamento de dados de clientes
+- alteração de registros de estoque
+- exclusão de pedidos e produtos
+- indisponibilidade parcial do sistema
+- prejuízos financeiros
+- violação da LGPD
+
+Como o UniStock centraliza autenticação, estoque e pedidos, o impacto operacional dessa falha seria extremamente crítico para a plataforma.
+
+
+## Técnicas de Mitigação Implementadas
+
+Para reduzir os riscos de SQL Injection, o UniStock adotou as seguintes medidas:
+
+### ORM (Object Relational Mapping)
+
+O backend utiliza ORM para impedir concatenação manual de comandos SQL, evitando interpretação maliciosa de entradas do usuário.
+
+### Sanitização de Entradas
+
+Todos os dados enviados por formulários passam por validação e sanitização antes do processamento.
+
+### RBAC
+
+O controle de permissões restringe acessos administrativos apenas a usuários autorizados.
+
+### HTTPS Obrigatório
+
+Toda comunicação entre cliente e servidor ocorre de forma criptografada.
+
+### Logs de Auditoria
+
+Ações críticas são registradas para investigação de possíveis incidentes.
+
+
+## Conclusão
+
+A análise crítica demonstrou que o SQL Injection representa uma das ameaças mais graves ao UniStock devido ao potencial comprometimento do banco de dados e exposição de informações sensíveis.
+
+As técnicas de mitigação implementadas, combinadas com políticas de IAM e conformidade com a LGPD, reduzem significativamente os riscos operacionais e fortalecem a segurança da plataforma.
