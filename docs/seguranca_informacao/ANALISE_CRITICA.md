@@ -17,4 +17,18 @@ No contexto do UniStock, um invasor poderia explorar campos de login, busca de p
 Exemplo de ataque:
 
 ```sql
-' OR 1=1 --
+' OR 1=1 -- 
+
+## Impactos Operacionais
+
+A exploração dessa vulnerabilidade poderia causar:
+
+- acesso indevido a contas administrativas
+- vazamento de dados de clientes
+- alteração de registros de estoque
+- exclusão de pedidos e produtos
+- indisponibilidade parcial do sistema
+- prejuízos financeiros
+- violação da LGPD
+
+Como o UniStock centraliza autenticação, estoque e pedidos, o impacto operacional dessa falha seria extremamente crítico para a plataforma.
