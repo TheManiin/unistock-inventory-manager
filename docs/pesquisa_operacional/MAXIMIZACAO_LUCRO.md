@@ -8,6 +8,22 @@ Aplicar Programação Linear para identificar a combinação ideal de projetos d
 
 ---
 
+## Restrições
+
+### Restrição da Equipe de Desenvolvimento
+
+20x + 50y ≤ 200
+
+### Restrição da Equipe de Suporte
+
+10x + 15y ≤ 80
+
+### Restrição de Não Negatividade
+
+x ≥ 0
+
+y ≥ 0
+
 # Cenário do Problema
 
 A UniStock possui uma equipe limitada de desenvolvimento e suporte técnico.
