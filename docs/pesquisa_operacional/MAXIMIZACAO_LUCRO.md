@@ -93,3 +93,30 @@ Após a execução do algoritmo de Programação Linear, foi encontrada a seguin
 - Lucro Máximo: R$ 49.000
 
 O algoritmo identificou automaticamente a combinação mais eficiente de projetos sem ultrapassar os limites operacionais definidos pelas restrições matemáticas.
+
+# Análise de Cenário (What-If)
+
+Para simular uma situação de crise operacional, a disponibilidade da equipe de desenvolvimento foi reduzida de 200 horas para 100 horas mensais.
+
+O objetivo da análise foi verificar como a redução de recursos impactaria o lucro e a estratégia operacional da empresa.
+
+## Cenário Normal
+- Projetos Básicos: 5
+- Projetos Premium: 2
+- Lucro Máximo: R$ 49.000
+  
+## Cenário de Crise
+- Projetos Básicos: 5
+- Projetos Premium: 0
+- Lucro Máximo: R$ 25.000
+
+# Análise Crítica dos Resultados
+
+Os resultados matemáticos obtidos em Python fazem sentido para a realidade operacional da UniStock, pois demonstram claramente como as limitações de recursos influenciam diretamente a capacidade produtiva da empresa.
+
+No cenário normal, a combinação entre projetos Básicos e Premium permite alcançar maior rentabilidade, utilizando de forma equilibrada as equipes de desenvolvimento e suporte técnico.
+
+Entretanto, quando ocorre uma redução na disponibilidade da equipe de desenvolvimento, os projetos Premium deixam de ser viáveis devido ao alto consumo de horas técnicas. Nesse cenário, o algoritmo identificou que concentrar a operação apenas em projetos Básicos se torna a alternativa mais eficiente para evitar sobrecarga operacional e reduzir riscos.
+
+A análise What-If ajuda a gestão da empresa a prever impactos causados por crises, atrasos ou redução de equipe, permitindo tomadas de decisão mais seguras, estratégicas e baseadas em dados reais.
+
