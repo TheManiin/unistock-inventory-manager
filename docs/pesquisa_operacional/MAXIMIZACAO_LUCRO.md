@@ -120,3 +120,16 @@ Entretanto, quando ocorre uma redução na disponibilidade da equipe de desenvol
 
 A análise What-If ajuda a gestão da empresa a prever impactos causados por crises, atrasos ou redução de equipe, permitindo tomadas de decisão mais seguras, estratégicas e baseadas em dados reais.
 
+# Ferramentas Utilizadas
+
+- Python
+- Google Colab
+- Biblioteca PuLP
+- Programação Linear
+- Modelagem Matemática
+
+# Conclusão
+
+A aplicação de Pesquisa Operacional permitiu transformar um problema real de negócios em um modelo matemático capaz de apoiar decisões estratégicas da UniStock.
+
+O uso de Programação Linear e algoritmos em Python demonstrou como técnicas computacionais podem auxiliar empresas na maximização de lucro, otimização de recursos e análise de cenários operacionais críticos.
