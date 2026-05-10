@@ -81,3 +81,15 @@ As variáveis de decisão não podem assumir valores negativos.
 x ≥ 0
 
 y ≥ 0
+
+# Resultados Obtidos com Python
+
+O modelo matemático foi implementado em Python utilizando a biblioteca PuLP no Google Colab.
+
+Após a execução do algoritmo de Programação Linear, foi encontrada a seguinte solução ótima:
+
+- Projetos Básicos: 5
+- Projetos Premium: 2
+- Lucro Máximo: R$ 49.000
+
+O algoritmo identificou automaticamente a combinação mais eficiente de projetos sem ultrapassar os limites operacionais definidos pelas restrições matemáticas.
