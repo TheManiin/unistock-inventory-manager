@@ -59,3 +59,32 @@ Maximizar o lucro:
 
 ```math
 Max Z = 5000x + 12000y
+```
+
+---
+
+# Análise de Cenário (What-If)
+
+Para simular um cenário de crise operacional, a restrição da equipe de desenvolvimento foi reduzida de 200 horas para 100 horas disponíveis.
+
+## Cenário Normal
+
+- Projetos Básicos: 5
+- Projetos Premium: 2
+- Lucro Máximo: R$ 49.000
+
+## Cenário de Crise
+
+- Projetos Básicos: 5
+- Projetos Premium: 0
+- Lucro Máximo: R$ 25.000
+
+## Interpretação dos Resultados
+
+A análise demonstrou que a redução da capacidade operacional impacta diretamente a estratégia da empresa e o lucro final obtido.
+
+No cenário normal, a UniStock consegue equilibrar projetos básicos e premium para maximizar o retorno financeiro. Porém, quando os recursos de desenvolvimento são reduzidos pela metade, os projetos premium deixam de ser viáveis devido ao alto consumo de horas técnicas.
+
+O algoritmo identificou automaticamente que manter apenas projetos básicos se torna a decisão mais eficiente para evitar sobrecarga operacional.
+
+Essa análise ajuda a gestão da empresa a prever impactos de crises, atrasos ou redução de equipe, permitindo decisões mais seguras e estratégicas.
