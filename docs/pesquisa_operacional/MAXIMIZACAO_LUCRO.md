@@ -140,3 +140,4 @@ O uso de Programação Linear e algoritmos em Python demonstrou como técnicas c
 O algoritmo desenvolvido em Python utilizando a biblioteca PuLP pode ser consultado no notebook abaixo:
 
 - [Visualizar Notebook no GitHub](./UniStock_Maximizacao.ipynb)
+- [Abrir no Google Colab](https://colab.research.google.com/drive/1DZWE7oLEF7ioVLMH9r6sqcshlM5pC1gq#scrollTo=LKhx7UBgoMkx)
