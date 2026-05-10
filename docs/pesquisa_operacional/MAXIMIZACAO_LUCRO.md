@@ -79,4 +79,5 @@ A soma das horas de suporte consumidas pelos projetos não pode ultrapassar o li
 As variáveis de decisão não podem assumir valores negativos.
 
 x ≥ 0
+
 y ≥ 0
