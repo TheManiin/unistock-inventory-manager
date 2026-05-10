@@ -65,8 +65,10 @@ Max Z = 5000x + 12000y
 ## Restrição da Equipe de Desenvolvimento
 
 A soma das horas utilizadas pelos projetos não pode ultrapassar a capacidade da equipe de desenvolvimento.
+
 20x + 50y ≤ 200
 
 # Restrição da Equipe de Suporte Técnico
 A soma das horas de suporte consumidas pelos projetos não pode ultrapassar o limite disponível da equipe.
+
 10x + 15y ≤ 80
