@@ -4,31 +4,15 @@
 
 # Objetivo
 
-Aplicar Programação Linear para identificar a combinação ideal de projetos da UniStock que gera o maior lucro possível, considerando limitações operacionais da empresa.
+Aplicar conceitos de Programação Linear no sistema UniStock para identificar a combinação ideal de projetos que maximize o lucro da empresa, considerando limitações operacionais de desenvolvimento e suporte técnico.
 
 ---
 
-## Restrições
-
-### Restrição da Equipe de Desenvolvimento
-
-20x + 50y ≤ 200
-
-### Restrição da Equipe de Suporte
-
-10x + 15y ≤ 80
-
-### Restrição de Não Negatividade
-
-x ≥ 0
-
-y ≥ 0
-
 # Cenário do Problema
 
-A UniStock possui uma equipe limitada de desenvolvimento e suporte técnico.
+A UniStock possui uma equipe limitada de desenvolvimento e suporte técnico responsável pela execução de projetos de clientes.
 
-A empresa precisa decidir quantos projetos do tipo Básico e Premium devem ser aceitos durante o mês para maximizar o lucro total sem ultrapassar os recursos disponíveis.
+A empresa precisa decidir quantos projetos dos tipos Básico e Premium podem ser aceitos durante o mês sem ultrapassar os recursos disponíveis, buscando maximizar o lucro total da operação.
 
 ---
 
@@ -43,15 +27,15 @@ A empresa precisa decidir quantos projetos do tipo Básico e Premium devem ser a
 
 ## Projeto Básico
 
-- Lucro: R$ 5.000
+- Lucro unitário: R$ 5.000
 - Consome 20 horas de desenvolvimento
-- Consome 10 horas de suporte
+- Consome 10 horas de suporte técnico
 
 ## Projeto Premium
 
-- Lucro: R$ 12.000
+- Lucro unitário: R$ 12.000
 - Consome 50 horas de desenvolvimento
-- Consome 15 horas de suporte
+- Consome 15 horas de suporte técnico
 
 ---
 
@@ -59,11 +43,11 @@ A empresa precisa decidir quantos projetos do tipo Básico e Premium devem ser a
 
 ## Equipe de Desenvolvimento
 
-- 200 horas disponíveis
+- 200 horas disponíveis por mês
 
-## Equipe de Suporte
+## Equipe de Suporte Técnico
 
-- 80 horas disponíveis
+- 80 horas disponíveis por mês
 
 ---
 
@@ -71,36 +55,7 @@ A empresa precisa decidir quantos projetos do tipo Básico e Premium devem ser a
 
 ## Função Objetivo
 
-Maximizar o lucro:
+Maximizar o lucro total da empresa:
 
 ```math
 Max Z = 5000x + 12000y
-```
-
----
-
-# Análise de Cenário (What-If)
-
-Para simular um cenário de crise operacional, a restrição da equipe de desenvolvimento foi reduzida de 200 horas para 100 horas disponíveis.
-
-## Cenário Normal
-
-- Projetos Básicos: 5
-- Projetos Premium: 2
-- Lucro Máximo: R$ 49.000
-
-## Cenário de Crise
-
-- Projetos Básicos: 5
-- Projetos Premium: 0
-- Lucro Máximo: R$ 25.000
-
-## Interpretação dos Resultados
-
-A análise demonstrou que a redução da capacidade operacional impacta diretamente a estratégia da empresa e o lucro final obtido.
-
-No cenário normal, a UniStock consegue equilibrar projetos básicos e premium para maximizar o retorno financeiro. Porém, quando os recursos de desenvolvimento são reduzidos pela metade, os projetos premium deixam de ser viáveis devido ao alto consumo de horas técnicas.
-
-O algoritmo identificou automaticamente que manter apenas projetos básicos se torna a decisão mais eficiente para evitar sobrecarga operacional.
-
-Essa análise ajuda a gestão da empresa a prever impactos de crises, atrasos ou redução de equipe, permitindo decisões mais seguras e estratégicas.
