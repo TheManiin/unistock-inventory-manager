@@ -69,6 +69,14 @@ A soma das horas utilizadas pelos projetos não pode ultrapassar a capacidade da
 20x + 50y ≤ 200
 
 # Restrição da Equipe de Suporte Técnico
+
 A soma das horas de suporte consumidas pelos projetos não pode ultrapassar o limite disponível da equipe.
 
 10x + 15y ≤ 80
+
+# Restrição de Não Negatividade
+
+As variáveis de decisão não podem assumir valores negativos.
+
+x ≥ 0
+y ≥ 0
