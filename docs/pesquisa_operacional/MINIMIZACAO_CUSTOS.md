@@ -160,5 +160,5 @@ O uso de Programação Linear e algoritmos em Python demonstrou como técnicas c
 
 O algoritmo desenvolvido em Python utilizando a biblioteca PuLP pode ser consultado nos links abaixo:
 
-- Visualizar Notebook no GitHub
-- Abrir no Google Colab
+- [Visualizar Notebook no GitHub](./UniStock_Minimizacao.ipynb)
+- [Abrir no Google Colab](https://colab.research.google.com/drive/12_KtTjKJaraMMOPZKNLUjGARXum12l9s#scrollTo=Itp47NCdXOhb)
