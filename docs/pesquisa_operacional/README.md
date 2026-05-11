@@ -29,7 +29,9 @@ Aplicar técnicas de Pesquisa Operacional no sistema UniStock para apoiar decis�
 - [Maximização de Lucro](./MAXIMIZACAO_LUCRO.md)
 - [Minimização de Custos](./MINIMIZACAO_CUSTOS.md)
 - [Análise Crítica](./ANALISE_CRITICA.md)
-
+- [UniStock - Maximização](./UniStock_Maximizacao.ipynb)
+- [UniStock - Minimização](./UniStock_Minimizacao.ipynb)
+  
 ---
 
 # Ferramentas Utilizadas
