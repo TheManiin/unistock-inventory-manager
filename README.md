@@ -93,12 +93,16 @@ Simulação de cenários críticos considerando redução de recursos operaciona
 
 ```bash
 docs/
+├── analise_dados/
 ├── pesquisa_operacional/
-│   ├── MAXIMIZACAO_LUCRO.md
-│   ├── MINIMIZACAO_CUSTOS.md
-│   ├── ANALISE_CRITICA.md
-│   ├── UniStock_Maximizacao.ipynb
-│   └── UniStock_Minimizacao.ipynb
+├── seguranca_informacao/
+├── CRONOGRAMA.md
+├── CUSTOS.md
+├── EAP.md
+├── RACI.md
+├── RISCOS.md
+├── TAP.md
+└── README.md
 ```
 
 ---
