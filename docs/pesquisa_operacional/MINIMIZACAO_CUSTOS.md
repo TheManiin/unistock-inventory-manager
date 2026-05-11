@@ -85,3 +85,37 @@ A soma das horas utilizadas pelos projetos não pode ultrapassar a capacidade da
 A soma das horas de suporte consumidas pelos projetos não pode ultrapassar o limite disponível da equipe.
 
 8x + 12 y ≤90
+
+# Restrição de Demanda Mínima
+
+A empresa precisa atender uma quantidade mínima de projetos contratados.
+
+x ≥ 6
+
+y ≥ 2
+
+# Restrição de Não Negatividade
+
+As variáveis de decisão não podem assumir valores negativos.
+
+x ≥ 0
+
+y ≥ 0
+
+# Resultados Obtidos com Python
+
+O modelo matemático foi implementado em Python utilizando a biblioteca PuLP no Google Colab.
+
+Após a execução do algoritmo de Programação Linear, foi encontrada a seguinte solução ótima:
+
+- Projetos Básicos: 6
+- Projetos Premium: 2
+- Custo Mínimo: R$ 32.000
+
+O algoritmo identificou automaticamente a combinação de projetos com menor custo operacional possível, respeitando todas as restrições definidas no modelo matemático.
+
+# Análise de Cenário (What-If)
+
+Para simular um cenário de redução orçamentária, a disponibilidade da equipe de suporte técnico foi reduzida de 90 horas para 60 horas mensais.
+
+O objetivo da análise foi verificar como a limitação de recursos impactaria os custos e a capacidade operacional da empresa.
