@@ -131,3 +131,34 @@ O objetivo da análise foi verificar como a limitação de recursos impactaria o
 - Projetos Básicos: 6
 - Projetos Premium: 1
 - Custo Mínimo: R$ 25.000
+
+# Análise Crítica dos Resultados
+
+Os resultados demonstram que a Programação Linear permite encontrar estratégias eficientes para redução de custos operacionais sem comprometer totalmente a capacidade de atendimento da empresa.
+
+No cenário normal, a UniStock consegue equilibrar projetos Básicos e Premium mantendo o funcionamento adequado das equipes técnicas.
+
+Entretanto, quando ocorre uma redução nos recursos de suporte técnico, os projetos Premium tornam-se mais limitados devido ao maior consumo operacional.
+
+A análise What-If permitiu prever como alterações nos recursos disponíveis impactam diretamente os custos e a estratégia operacional da empresa.
+
+# Ferramentas Utilizadas
+
+- Python
+- Google Colab
+- Biblioteca PuLP
+- Programação Linear
+- Modelagem Matemática
+
+# Conclusão
+
+A aplicação de Pesquisa Operacional permitiu transformar um problema de redução de custos em um modelo matemático capaz de apoiar decisões estratégicas da UniStock.
+
+O uso de Programação Linear e algoritmos em Python demonstrou como técnicas computacionais podem auxiliar empresas na otimização de recursos, controle de custos e planejamento operacional.
+
+# Arquivo Python
+
+O algoritmo desenvolvido em Python utilizando a biblioteca PuLP pode ser consultado nos links abaixo:
+
+- Visualizar Notebook no GitHub
+- Abrir no Google Colab
