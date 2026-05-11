@@ -1,6 +1,6 @@
 # Pesquisa Operacional - UniStock
 
-Documentação referente à Disciplina 4 do Projeto GSC.
+Documentação referente à Disciplina 4 do Projeto.
 
 ---
 
