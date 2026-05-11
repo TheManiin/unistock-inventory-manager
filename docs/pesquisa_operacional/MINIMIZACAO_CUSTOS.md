@@ -119,3 +119,15 @@ O algoritmo identificou automaticamente a combinação de projetos com menor cus
 Para simular um cenário de redução orçamentária, a disponibilidade da equipe de suporte técnico foi reduzida de 90 horas para 60 horas mensais.
 
 O objetivo da análise foi verificar como a limitação de recursos impactaria os custos e a capacidade operacional da empresa.
+
+## Cenário Normal
+
+- Projetos Básicos: 6
+- Projetos Premium: 2
+- Custo Mínimo: R$ 32.000
+  
+## Cenário de Restrição Operacional
+
+- Projetos Básicos: 6
+- Projetos Premium: 1
+- Custo Mínimo: R$ 25.000
