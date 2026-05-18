@@ -2,7 +2,7 @@
 
 | ID | Atividade | Início | Término | Depende de |
 |----|-----------|--------|---------|------------|
-| 1 | Elaboração do TAP | 01/04 | 03/04 | - |
+| 1 | Elaboração do TAP | 01/03 | 03/04 | - |
 | 2 | Estruturação da EAP | 04/04 | 05/04 | 1 |
 | 3 | Definição da Matriz RACI | 06/04 | 06/04 | 2 |
 | 4 | Planejamento Inicial de Custos e Riscos | 07/04 | 08/04 | 3 |
