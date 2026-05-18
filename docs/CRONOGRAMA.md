@@ -13,7 +13,7 @@
 | 9 | Mapeamento de Segurança / LGPD | 25/04 | 27/04 | 8 |
 | 10 | Modelagem de Pesquisa Operacional | 28/04 | 02/05 | 8 |
 | 11 | Testes e Validação Final | 03/05 | 05/05 | 10 |
-| 12 | Documentação e Apresentação | 06/05 | 08/05 | 11 |
+| 12 | Documentação e Apresentação | 06/05 | 18/05 | 11 |
 
 
 
