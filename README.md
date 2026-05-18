@@ -12,7 +12,7 @@ Sistema de gerenciamento de estoque desenvolvido para controle de produtos, movi
 
 O UniStock é um sistema desenvolvido para auxiliar pequenas lojas no gerenciamento de estoque, permitindo:
 
-- Cadastro de produtos
+- Estrutura para gerenciamento de produtos
 - Controle de entrada e saída
 - Monitoramento de estoque
 - Relatórios operacionais
@@ -39,15 +39,23 @@ Muitas pequenas lojas ainda utilizam planilhas ou métodos manuais para controla
 
 O UniStock centraliza o controle operacional da loja em um único sistema.
 
-O sistema permite:
+A proposta do projeto contempla:
 
-- Cadastro de produtos
+- Modelagem de controle de produtos
 - Controle automatizado de estoque
 - Registro de movimentações
 - Relatórios operacionais
 - Alertas de estoque baixo
 - Organização de informações
 - Simulação de cenários operacionais
+
+---
+
+## Origem da Ideia
+
+O projeto UniStock foi idealizado como uma evolução conceitual do projeto UniShoes, desenvolvido anteriormente em Java com Spring Boot.
+
+Enquanto o UniShoes possuía foco em desenvolvimento web e gerenciamento operacional de uma loja de calçados, o UniStock amplia a proposta para análise estratégica, gestão operacional e aplicação de Pesquisa Operacional utilizando Python e Programação Linear.
 
 ---
 
@@ -81,6 +89,7 @@ Simulação de cenários críticos considerando redução de recursos operaciona
 
 - Python
 - Pandas
+- Programação Linear
 - SQLite
 - PuLP
 - Google Colab
