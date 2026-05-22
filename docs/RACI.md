@@ -1,4 +1,4 @@
-| Pacote EAP | Felipe | Igor |
+| Pacote de Trabalho | Felipe | Igor |
 |------------|--------|------|
 | 1.1 TAP | R/A | C |
 | 1.2 Cronograma | R | A |
