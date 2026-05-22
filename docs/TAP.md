@@ -37,6 +37,16 @@ O projeto UniStock visa solucionar esse problema por meio do desenvolvimento de 
 - Infraestrutura de produção/cloud real
 
 ## Stakeholders
-- Professor da Disciplina (Felipe Santos de Jesus)
-- Equipe de Desenvolvimento (Felipe Ferreira de Medeiros, Igor Almeida Gimenez)
-- Usuário Final / Loja de Sneakers (Cliente Simulado)
+- Professor da Disciplina
+  
+  Felipe Santos de Jesus
+  
+- Equipe de Desenvolvimento
+
+  Felipe Ferreira de Medeiros
+
+  Igor Almeida Gimenez
+  
+- Usuário Final
+
+  Loja de Sneakers (Cliente Simulado)
