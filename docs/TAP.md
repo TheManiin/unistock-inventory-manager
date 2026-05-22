@@ -40,12 +40,14 @@ O projeto UniStock visa solucionar esse problema por meio do desenvolvimento de 
 - Professor da Disciplina
   
   Felipe Santos de Jesus
+
   
 - Equipe de Desenvolvimento
 
   Felipe Ferreira de Medeiros
 
   Igor Almeida Gimenez
+
   
 - Usuário Final
 
