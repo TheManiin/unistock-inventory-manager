@@ -20,7 +20,6 @@ O projeto UniStock visa solucionar esse problema por meio do desenvolvimento de 
 - Propor modelos de otimização para reposição e gestão de estoque.
 
 ## Escopo IN (O que será desenvolvido)
-- Cadastro de produtos
 - Controle de estoque
 - Registro de entrada de produtos
 - Registro de saída de produtos
