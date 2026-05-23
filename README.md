@@ -103,6 +103,7 @@ Simulação de cenários críticos considerando redução de recursos operaciona
 ```bash
 docs/
 ├── analise_dados/
+├── documento_abnt/
 ├── pesquisa_operacional/
 ├── seguranca_informacao/
 ├── CRONOGRAMA.md
