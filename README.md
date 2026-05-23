@@ -117,6 +117,13 @@ docs/
 
 ---
 
+## Documentação ABNT
+
+A documentação acadêmica completa do projeto está disponível em:
+- [Documentação UniStock - ABNT](./docs/documento_abnt/Projeto%20Unistock%20-%20ABNT.pdf)
+
+---
+
 # Equipe
 
 Felipe Ferreira de Medeiros (Líder)
