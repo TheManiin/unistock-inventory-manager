@@ -3,4 +3,4 @@
 Esta pasta contém a documentação acadêmica final do projeto UniStock desenvolvida na disciplina de Gestão de Sistemas Computacionais.
 
 Arquivo disponível:
-- [Documentação Unistock - ABNT](./Projeto Unistock - ABNT.md).
+- [Documentação UniStock - ABNT](./docs/documento_abnt/UniStock_Documentacao_ABNT.pdf)
