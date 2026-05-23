@@ -1,7 +1,7 @@
 # UniStock - Inventory Manager
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+![Status](https://img.shields.io/badge/Status-%20Concluído-green)
 ![License](https://img.shields.io/badge/Projeto-Acadêmico-orange)
 
 Sistema de gerenciamento de estoque desenvolvido para controle de produtos, movimentação de estoque e análise de vendas em lojas de sneakers.
